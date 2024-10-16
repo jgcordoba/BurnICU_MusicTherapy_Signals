@@ -8,7 +8,7 @@
   - [1.1 Study Overview](#11-study-overview)
   - [1.2 Electrophysiological Measurements](#12-electrophysiological-measurements)
   - [1.3 Pain Perception and Anxiety-Depression Levels](#13-pain-perception-and-anxiety-depression-levels)
-- [2. Dataset](2-dataset)
+- [2. Dataset](#2-dataset)
 
 ## 1. Experimental Design
 
@@ -46,7 +46,7 @@ This dataset forms part of an ongoing single-site Randomized Clinical Trial (RCT
 For more detailed information about the data, please refer to the associated article "Music therapy with adult burn patients in the intensive care unit: short-term analysis of electrophysiological signals during music-assisted relaxation" (https://doi.org/10.1038/s41598-024-73211-3)
 
 ## 2. Dataset
----
+--- doi:10.18112/openneuro.ds004840.v1.0.0
 
 **Last Update**: 23/10/2023
 **Author**: Jose Gabriel Cordoba Silva
