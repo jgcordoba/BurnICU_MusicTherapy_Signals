@@ -7,8 +7,8 @@
 - [1. Experimental Design](#1-experimental-design)
   - [1.1 Study Overview](#11-study-overview)
   - [1.2 Electrophysiological Measurements](#12-electrophysiological-measurements)
-  - [1.3 Pain Perception and Anxiety-Depression Levels](#2-pain-perception-and-anxiety-depression-levels)
-- [2. Dataset]
+  - [1.3 Pain Perception and Anxiety-Depression Levels](#13-pain-perception-and-anxiety-depression-levels)
+- [2. Dataset](2-dataset)
 
 ## 1. Experimental Design
 
@@ -43,8 +43,9 @@ This dataset forms part of an ongoing single-site Randomized Clinical Trial (RCT
 - **Pain Assessment**: A Visual Analog Scale (VAS) was administered before the PRE and after the POST. The VAS ranged from 0 (indicating no pain) to 10 (representing the maximum pain possible).
 - **Anxiety and Depression**: The Colombian version of the Hospital Anxiety and Depression Scale (HADS) was used. HADS consists of two sub-scales for anxiety and depression, each containing seven items. Items are rated on a four-point Likert scale (0 to 3), with higher scores indicating increased anxiety or depression levels (maximum score of 21 for each subscale). HADS was administered after obtaining informed consent, both as a baseline and after the last music therapy sessions.
 
-For more detailed information about the data, please refer to the associated article titled "Article not submitted"
+For more detailed information about the data, please refer to the associated article "Music therapy with adult burn patients in the intensive care unit: short-term analysis of electrophysiological signals during music-assisted relaxation" (https://doi.org/10.1038/s41598-024-73211-3)
 
+## 2. Dataset
 ---
 
 **Last Update**: 23/10/2023
